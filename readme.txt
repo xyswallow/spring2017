@@ -3,4 +3,5 @@ Git is a free software.
 Git is ready for me. 
 Git was changed again.
 Git tracks changes.
-Creating a new branch is quick.  
+Creating a new branch is quick.
+Creating a new branch is quick AND simple. 
