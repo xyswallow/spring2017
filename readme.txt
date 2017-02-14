@@ -5,3 +5,4 @@ Creating a new branch is quick.
 !!! Create a new branch is quick & simple.  
 It will merge something. 
 Git is simple. 
+Haha 
